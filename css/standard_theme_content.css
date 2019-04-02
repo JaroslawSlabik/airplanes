@@ -1,0 +1,32 @@
+SECTION
+{
+    margin: 20px;
+	margin-left:40px;
+	margin-right:40px;
+}
+
+div.table_img > img.plane
+{
+	box-shadow: 0px 0px 30px 0px rgba(0.5,0.5,0.5,0.5);
+	margin: 4px 40px 4px 40px;
+}
+
+div.table_img
+{
+	box-shadow: 0px 0px 16px 16px rgba(0.5, 0.5, 0.5, 0.2);
+}
+
+div.description_body
+{
+	margin: 40px;
+	box-shadow: 0px 0px 30px 0px rgba(0.77, 0.63, 0.34, 0.5);
+	background-color: #333;
+	padding: 14px 16px;
+	color: #FFFFFF;
+	visibility: hidden;
+}
+
+div.show
+{
+	visibility: visible;
+}

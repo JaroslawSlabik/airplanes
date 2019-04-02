@@ -1,0 +1,15 @@
+{
+  "planes": [{
+    "id": 0,
+    "name": "F-16",
+    "description": "F-16, czyli „Jastrzębie” to obecnie najnowocześniejsze samoloty w polskim lotnictwie wojskowym. Pierwsze maszyny tego typu trafiły do polskiego lotnictwa w 2006 roku, a do końca 2008 roku w kraju znalazły się wszystkie z przewidywanych umową z producentem 48 samolotów, z czego 12 stanowi wersja szkolno-bojowa."
+    }, {
+    "id": 1,
+    "name": "MiG-29",
+    "description": "MiGi-29 strzegą polskiego nieba już od ponad ćwierć wieku. Pierwsze 12 fabrycznie nowych maszyn trafiło do Polski w 1989 roku. Kolejne 10 kilka lat później odkupiliśmy od Czechów, a w 2004 roku za symboliczne euro za sztukę polskie lotnictwo przejęło następne 23 samoloty, należące do Luftwaffe, z których – na skutek wyeksploatowania – do służby nadawało się jedynie 14."
+    }, {
+    "id": 2,
+    "name": "SU-22",
+    "description": "SU-22 - dzieło inżynierów z biura konstrukcyjnego Pawła Suchoja to najstarsze samoloty bojowe, używane obecnie przez polskie lotnictwo. Pierwsze egzemplarze myśliwsko-bombowych Su-22, nazywane również przez pilotów „sukami”, trafiły do Polski jeszcze w 1984 roku, a w ciągu kilku kolejnych lat liczba tych samolotów wzrosła do 110."
+    }]
+}

@@ -1,0 +1,9 @@
+BODY
+{
+	width: 100%;
+    margin: 0;
+    padding: 0;
+	background-image: url('../resources/images/f_22_and_f_35.jpg');
+	background-color: rgba(0, 0, 0, 0.3);
+	background-size: cover;
+}
